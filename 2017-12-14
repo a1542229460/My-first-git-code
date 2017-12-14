@@ -1,0 +1,5 @@
+pubulic class HelloWord{
+  public static main(){
+    System.out.prianln("Hello_World");
+  }
+}
